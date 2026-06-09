@@ -162,6 +162,4 @@ pip install pandas numpy scikit-learn plotly
 **Topic:** Machine Learning Fundamentals  
 
 
-**Linear Regression** from `sklearn.linear_model`
 
-Formula:
